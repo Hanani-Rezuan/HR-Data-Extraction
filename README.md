@@ -1,2 +1,2 @@
-# Bulan-Menabung-SSPN
-Bulan Menabung Simpanan SSPN sudah kembali!
+# HR Data Extraction
+HR Data Extraction using Large Language Models.
