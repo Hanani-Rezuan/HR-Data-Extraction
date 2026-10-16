@@ -3,7 +3,7 @@
 CS230 Student at UiTM Shah Alam that loves to design system
 
 ## About me
-- Studying: Bachelor of Computer Science (Honours), UiTM
+- Studying: Bachelor of Computer Science (Honours), UiTM Shah Alam
 - Currently learning: Special Topics in Computer Science
 - My FYP area: Artificial Intelligent
 
