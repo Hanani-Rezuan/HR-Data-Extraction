@@ -17,3 +17,24 @@ Angular, Java SpringBoot, Php, MySQL
 - LinkedIn: https://www.linkedin.com/in/amiratul-nurhanani-rezuan-824426257
 - Email: 2023569667@student.uitm.edu.my
 
+## Project structure
+.
+|-- README.md
+|-- LICENSE
+|-- .gitignore
+|-- docs/
+|   |-- problem-statement.md
+|   |-- requirements.md
+|   |-- user-stories.md
+|   |-- sprint-log.md
+|-- src/
+    |-- README.md      
+```
+
+## Roadmap
+- [x] Problem statement written
+- [x] Requirements numbered and linked to user stories
+- [x] User stories have acceptance criteria
+- [ ] Specialized technology chosen and explained
+- [ ] First prototype (later in the semester)
+
