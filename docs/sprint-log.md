@@ -1,6 +1,6 @@
 # Sprint Log
 
-## Sprint 1 (Week 3 lab)
+## Sprint 1
 
 ### Sprint goal
 by end of this lab, my user stories has acceptance criteria, requirements, my README.md has Documents, Project Structure and Roadmap
