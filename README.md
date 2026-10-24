@@ -38,3 +38,8 @@ Angular, Java SpringBoot, Php, MySQL
 - [ ] Specialized technology chosen and explained
 - [ ] First prototype (later in the semester)
 
+## Status
+Sprint 1 completed (CSC649, Week 3)
+
+## Author
+[Amiratul NurHanani Binti Rezuan]
